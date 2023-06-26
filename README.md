@@ -1,1 +1,1 @@
-# https-github.com-elixirutkarsh--Resize-the-100-images-to-50-smaller-using-OpenCV
+# "Convert Colored Video to Grey Scale (b/w)" using OpenCV 
